@@ -1,0 +1,15 @@
+{
+  "users": [
+    {
+    "type": "id" ,
+    "id": "5c5c165b07b3dd00ade8782f"
+  }
+  ],
+  "database": {
+        "user": "postgres",
+        "password": "postgres",
+        "database": "parsing",
+        "host": "localhost",
+        "port": 3050
+  }
+}
